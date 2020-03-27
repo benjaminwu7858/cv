@@ -1,0 +1,19 @@
+.intro{
+  border-spacing: 20px;
+}
+.skills-table{
+  border-spacing: 2px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 10%;
+}
+body{
+  background-color: #EAF6F6;
+}
+h1, h3{
+  color: #66BFBF;
+}
